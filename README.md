@@ -1,6 +1,3 @@
 # newone
 mainapp
-
-
-
 sdvsdz  
